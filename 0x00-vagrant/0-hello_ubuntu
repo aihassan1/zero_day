@@ -1,0 +1,2 @@
+	The command uname is used to print certain system information about the operating system running on a machine. When you run the uname command without any options, it will print the kernel name of the operating system.
+	
